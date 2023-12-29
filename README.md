@@ -1,5 +1,5 @@
 
-I'm a Principal Autonomy Engineer at University of Dayton Research Institute that enjoys solving really hard problems in data science, data management, distributed computation, and processing.
+I'm a Principal Autonomy Research Engineer at University of Dayton Research Institute that enjoys solving really hard problems in data science, data management, distributed computation, and processing.
 
 I also works as a an Adjunct Professor of Computer Science for the University of Dayton.
 
