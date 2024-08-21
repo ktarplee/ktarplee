@@ -3,8 +3,6 @@ I'm a Principal Autonomy Research Engineer at University of Dayton Research Inst
 
 I also works as an Adjunct Professor of Computer Science for the University of Dayton.
 
-[Linkedin](https://www.linkedin.com/in/kyle-tarplee-29b0a35a)
-
 <!--
 **ktarplee/ktarplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
